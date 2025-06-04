@@ -1,0 +1,12 @@
+admin
+login
+dashboard
+config
+backup
+uploads
+images
+js
+css
+api
+server-status
+hidden
