@@ -19,8 +19,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/krecon.git
-   cd krecon
+   git clone https://github.com/krishnadiwan/Krecon.git
+   cd Krecon
    ```
 
 2. **Install required dependencies:**
